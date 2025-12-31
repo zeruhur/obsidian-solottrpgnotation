@@ -1,10 +1,10 @@
-# Solo RPG Notation
+# Solo TTRPG Notation
 
-An Obsidian plugin for recording and tracking solo tabletop RPG sessions using a standardized notation system.
+A plugin for recording and tracking solo tabletop RPG sessions using a standardized notation system.
 
-## What is Solo RPG Notation?
+## What is Solo TTRPG Notation?
 
-Solo RPG Notation is a lightweight text-based system for documenting your solo TTRPG sessions. It lets you:
+Solo TTRPG Notation is a lightweight text-based system for documenting your solo TTRPG sessions. It lets you:
 
 - Record actions, oracle questions, and dice rolls in a consistent format
 - Tag NPCs, locations, and story threads as they appear
@@ -257,7 +257,7 @@ Filter by category and search across all notes.
 
 ## Configuration
 
-Open **Settings → Solo RPG Notation** to configure:
+Open **Settings → Solo TTRPG Notation** to configure:
 
 ### General
 - Enable/disable automatic indexing
