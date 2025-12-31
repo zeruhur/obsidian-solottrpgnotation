@@ -1,9 +1,9 @@
 {
-  "id": "solo-rpg-notation",
-  "name": "Solo RPG Notation",
+  "id": "solo-ttrpg-notation",
+  "name": "Solo TTRPG Notation",
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
-  "description": "Implement Solo TTRPG Notation with templates, indexing, and visualization for solo role-playing games",
+  "description": "A plugin for recording and tracking solo tabletop RPG sessions using a standardized notation system.",
   "author": "Roberto Bisceglie",
   "authorUrl": "https://github.com/roberto-b/solorpgnotation",
   "isDesktopOnly": false
