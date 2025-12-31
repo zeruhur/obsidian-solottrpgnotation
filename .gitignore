@@ -23,3 +23,5 @@ Thumbs.db
 # Plugin development
 .hotreload
 data.json
+node_modules/
+src/
